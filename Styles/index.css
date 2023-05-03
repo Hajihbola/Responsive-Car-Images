@@ -1,0 +1,11 @@
+@media screen and (max-width: 900px) {
+	div {
+		display: flex;
+		flex-direction: column;
+	}
+
+	.car {
+		width: 100%;
+		max-width: 100%;
+	}
+}
